@@ -1,7 +1,9 @@
 # git
-git使用方法
+Git使用方法
 
-git官网:   https://git-scm.com/   
+Git官网:   https://git-scm.com/   
+Github Desktop: https://desktop.github.com/
+[百度云下载](http://pan.baidu.com/s/1cpRxTW)
 
 
 git常用命令
